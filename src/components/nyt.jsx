@@ -29,7 +29,6 @@ const NYT = () => {
           <input
             className="input"
             type="text"
-            placeholder="Search"
             value={search}
             onChange={(e) => setSearch(e.target.value)}
           />

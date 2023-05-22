@@ -1,0 +1,14 @@
+.navBar {
+    background-color: black;
+}
+
+.navBrand {
+    color: white !important;
+    font-size: 2rem !important;
+    font-weight: bold !important;
+    margin: 0 1rem !important;
+}
+
+.navLink {
+    text-decoration: none !important;
+}
