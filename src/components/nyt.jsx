@@ -48,8 +48,9 @@ const NYT = () => {
               className="article-link"
               >
                 <h3 className="article-title">{article.headline.main}</h3>
-              </a>
+             
               <p className="article-text">{article.snippet}</p>
+              </a>
             </div>
           ))
         )}
