@@ -85,3 +85,14 @@
     font-size: 2rem;
   }
   
+  @media (max-width: 968px) {
+    .article-info {
+      width: calc(50% - 2rem);
+    }
+  }
+
+  @media (max-width: 780px) {
+    .article-info {
+      width: calc(100% - 2rem);
+    }
+  }
