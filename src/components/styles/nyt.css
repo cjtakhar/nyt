@@ -1,0 +1,75 @@
+.nyt-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem;
+}
+
+.form-container input {
+    width: 300px;
+    height: 30px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding: 5px;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.form-container input:focus {
+    outline: none;
+}
+
+.form-button {
+    width: 100px;
+    height: 40px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding: 5px;
+    background-color: white;
+    cursor: pointer;
+}
+
+.form-button:hover {
+    background-color: black;
+    color: white;
+}
+
+.res-container {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin: 1rem;
+}
+
+.article-link {
+    text-decoration: none;
+    color: black;
+    font-size: 2rem;
+}
+
+.article-text {
+    font-size: 1.2rem;
+    margin: 0.5rem;
+    text-indent: 2rem;
+}
+
+.article-info {
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.article-info:hover {
+    background-color: #55bbaa;
+}
+
