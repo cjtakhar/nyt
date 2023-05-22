@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nyt/static/css/main.9cacc26d.css",
+    "main.js": "/nyt/static/js/main.356ed30b.js",
+    "static/js/787.7a1a1da2.chunk.js": "/nyt/static/js/787.7a1a1da2.chunk.js",
+    "index.html": "/nyt/index.html",
+    "main.9cacc26d.css.map": "/nyt/static/css/main.9cacc26d.css.map",
+    "main.356ed30b.js.map": "/nyt/static/js/main.356ed30b.js.map",
+    "787.7a1a1da2.chunk.js.map": "/nyt/static/js/787.7a1a1da2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cacc26d.css",
+    "static/js/main.356ed30b.js"
+  ]
+}
