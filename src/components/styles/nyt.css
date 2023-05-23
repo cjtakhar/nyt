@@ -41,13 +41,15 @@
     border-radius: 5px;
     border: 1px solid #ccc;
     padding: 5px;
-    background-color: white;
+    background-color: black;
     cursor: pointer;
+    color: white;
   }
   
   .form-button:hover {
-    background-color: black;
-    color: white;
+    background-color: #55bbaa;
+    color: black;
+    border: none;
   }
   
   .res-container {
