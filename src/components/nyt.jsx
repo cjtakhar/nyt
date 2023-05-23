@@ -11,7 +11,7 @@ const NYT = () => {
     e.preventDefault();
     try {
       const res = await axios.get(
-        `http://localhost:5000/articles?q=${search}`
+        `https://nyt-search-api.wl.r.appspot.com/articles?q=${search}`
       );
       const retrievedArticles = res.data;
       setArticles(retrievedArticles);
