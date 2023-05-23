@@ -23,9 +23,10 @@ const NYT = () => {
 
   return (
     <div className="nyt-container">
-      <h1 className="nyt-title">New York Times Article Search</h1>
+      <h1 className="nyt-title">New York Times</h1>
+      <h2>Article Search</h2>
       <div className="form-container">
-        <form onSubmit={handleSubmit}>
+        <form className="form" onSubmit={handleSubmit}>
           <input
             className="input"
             type="text"

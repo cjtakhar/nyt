@@ -8,7 +8,7 @@
 
   .nyt-title {
     font-size: 3rem;
-    margin: 3rem;
+    margin-top: 2rem;
     font-weight: bold;
   }
   
@@ -104,4 +104,17 @@
     .article-info {
       width: calc(100% - 2rem);
     }
+
+    .nyt-title {
+      text-align: center;
+      font-size: 2.5rem;
+    }
+
+    .form {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+    
   }
